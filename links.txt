@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/jessicali9530/lfw-dataset
+Link de bases: Labelled Faces in the Wild (LFW) Dataset
+
+https://github.com/Kaggle/kagglehub/blob/main/README.md#kaggledatasetadapterpandas
+Github - apoio de uso do dataset acima
